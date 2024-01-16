@@ -3,7 +3,7 @@ I'm a 22-year-old developer based in India, and I'm passionate about learning ne
 
 - Check out my website to learn more about me.
 - Explore my blog where I share insights and learnings.
-- Stay updated with my journey on [LinkedIn](www.linkedin.com/in/nidhichhajer).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/nidhichhajer/).
 - Explore my VS Code Configuration for development optimization.
   <!-- In my Newsletter, I share my learnings and tips to become a better fullstack developer. -->
 
@@ -27,5 +27,5 @@ I'm a 22-year-old developer based in India, and I'm passionate about learning ne
 - I'm a HUGE swiftie ❤.
 
 ##  📫 Reach me :
-You can reach out to me at [LinkedIn](www.linkedin.com/in/nidhichhajer).
+You can reach out to me at [LinkedIn](https://www.linkedin.com/in/nidhichhajer/).
 
