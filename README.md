@@ -1,11 +1,7 @@
 ### Hey, I'm Nidhi 👋🏽
-I'm a 22-year-old developer based in India, and I'm passionate about learning new technologies and making projects to track my progress.
-
-- Check out my website to learn more about me.
-- Explore my blog where I share insights and learnings.
+I'm a 23-year-old developer based in India, and I'm passionate about learning new technologies and making projects to track my progress.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/nidhichhajer/).
-- Explore my VS Code Configuration for development optimization.
-  <!-- In my Newsletter, I share my learnings and tips to become a better fullstack developer. -->
+
 
 ## 🔭 Currently working as
 - A Software developer at Broadridge Financial Solutions, where i work on a Groovy-based project, focusing on updates, bug fixes, and releases.
@@ -15,11 +11,9 @@ I'm a 22-year-old developer based in India, and I'm passionate about learning ne
 
 ## 🌱 Currently learning 
 - Exploring React and actively engaged in React-based projects.
+- Enhancing expertise in Spring Boot for developing robust and scalable backend applications.
 - Developing skills in HTML, CSS, and JavaScript for front-end development.
-- Expanding proficiency in Node.js for server-side scripting.
-- Deepening understanding of MongoDB for database management.
-- Embracing TypeScript for enhanced JavaScript development.
-- Working on MERN (MongoDB, Express.js, React, Node.js) stack projects to integrate full-stack development capabilities.
+- Learning Spring Security for authentication, authorization, and securing REST APIs.
 
 ## ⚡ Fun fact
 - I play guitar 🎸 and sing a little sometimes.
